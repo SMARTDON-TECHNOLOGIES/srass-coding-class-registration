@@ -41,8 +41,8 @@ body {
 }
 
 .logo {
-    width: 48px;
-    height: 48px;
+    width: 88px;
+    height: 88px;
     margin-right: 1rem;
     border-radius: 50%;
     background: #fff;
@@ -116,6 +116,7 @@ body {
 .flyer-slide {
     position: absolute;
     top: 0;
+
     left: 0;
     right: 0;
     bottom: 0;
@@ -497,7 +498,7 @@ body {
 @media (max-width: 480px) {
     .contact-section {
         padding: 0.5rem 0.2rem;
-        max-width: 99vw;
+        max-width: 79vw;
     }
 
     .contact-form button {
@@ -507,7 +508,7 @@ body {
 
     .contact-form {
         gap: 0.5rem;
-        max-width: 99vw;
+        max-width: 79vw;
         width: 100%;
     }
 
